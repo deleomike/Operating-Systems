@@ -5,6 +5,7 @@ My operating systems course's labs primarily focused on threading, race conditio
 The book for the course was **Modern Operating Systems Fourth Edition by Andrew S. Tatenbaum**
 
 - Labs
+  - [Lab 6](./src/Lab6/)
   - [Lab 11](./src/lab11/)
 - Homework
   - [HW 1](./src/HW1/)
